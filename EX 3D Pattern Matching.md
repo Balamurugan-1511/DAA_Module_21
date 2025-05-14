@@ -8,7 +8,8 @@ Write a Python program for Bad Character Heuristic of Boyer Moore String Matchin
 
 
 ## Algorithm
-1. Goal: Find where a pattern (pat) appears inside a text (txt).
+
+1.Goal: Find where a pattern (pat) appears inside a text (txt).
 
 2.Bad Character Heuristic: Prepares a table showing where each character last appeared in the pattern.
 
