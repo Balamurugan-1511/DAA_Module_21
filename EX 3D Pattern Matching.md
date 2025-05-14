@@ -63,4 +63,5 @@ if __name__ == '__main__':
 
 
 ## Result:
-The brute force substring search program executed successfully and returned the starting index of the match or 0 if no match was found.
+Efficiently finds all positions where a pattern occurs in a text using the bad character heuristic
+program executed successfully and returned the starting index of the match or 0 if no match was found.
